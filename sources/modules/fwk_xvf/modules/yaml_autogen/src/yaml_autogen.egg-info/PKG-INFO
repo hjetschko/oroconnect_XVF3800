@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: yaml_autogen
 Version: 0.0.2
 Summary: A package for aiding with generation of project-specific files using Jinja templates
@@ -11,3 +11,4 @@ Description-Content-Type: text/x-rst
 License-File: LICENSE
 Requires-Dist: Jinja2
 Requires-Dist: pyyaml
+Dynamic: license-file
